@@ -22,3 +22,4 @@ This repository contains hands-on data analysis projects focused on solving real
 
 ## 👤 About Me
 Data Analyst with an MBA background, experienced in SQL, Python, and BI tools, focused on turning data into actionable business insights.
+ 
