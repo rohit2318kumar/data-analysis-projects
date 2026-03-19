@@ -1,28 +1,55 @@
-# Retail Sales & Customer Insights Dashboard
+# 📊 Retail Sales & Customer Insights Dashboard
 
-## 📌 Project Overview
-This project analyzes retail sales data using Python and Power BI to generate business insights.
+## 🚀 Project Overview
+This project demonstrates an end-to-end data analysis workflow using Python and Power BI.
 
-## 🔧 Tools Used
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Data generated using Python (Faker)
+- Exploratory Data Analysis (EDA) performed using Pandas, NumPy, and Seaborn
+- Interactive dashboards created in Power BI
+
+---
+
+## 🛠️ Tools & Technologies
+- Python (Pandas, NumPy, Seaborn)
 - Power BI
-- Jupyter Notebook
+- Excel
 
-## 📊 Key Features
-- Created synthetic dataset using Python (Faker)
-- Performed EDA to analyze sales, profit, customer behavior
-- Built interactive Power BI dashboard
+---
 
-## 📈 Insights
+## 📈 Key Insights
 - Identified top-performing regions and states
-- Analyzed customer segments profitability
-- Found most preferred payment methods
+- Analyzed customer segment profitability
+- Discovered most preferred payment methods
+- Evaluated sales trends over time
 
-## 📷 Dashboard Preview
-Dashboard (screenshot.png)
+---
+
+## 📊 Dashboard Previews
+
+### Store Performance Dashboard
+![Store](Store Performance Dashboard.jpg)
+
+### Inventory & Supplier Dashboard
+![Inventory](Inventory & Supplier Dashboard.jpg)
+
+### Customer & Delivery Dashboard
+![Customer](Customer & Delivery Insights Dashboard.jpg)
+
+---
 
 ## 📁 Files Included
-- Data generation notebook
-- EDA notebook
-- Dataset (.xls)
-- Power BI dashboard (.pbix)
+- Python notebooks for data generation & analysis
+- Dataset (Excel)
+- Power BI dashboard file (.pbix)
+- Dashboard screenshots
+
+---
+
+## 💡 Business Value
+This dashboard helps businesses:
+- Track sales performance
+- Understand customer behavior
+- Optimize decision-making using data insights
+- Track sales performance
+- Understand customer behavior
+- Optimize decision-making using data insights
