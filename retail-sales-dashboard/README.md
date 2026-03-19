@@ -1,6 +1,6 @@
-# 📊 Retail Sales & Customer Insights Dashboard
+# Retail Sales & Customer Insights Dashboard
 
-## 🚀 Project Overview
+## Project Overview
 This project demonstrates an end-to-end data analysis workflow using Python and Power BI.
 
 - Data generated using Python (Faker) 
@@ -8,23 +8,23 @@ This project demonstrates an end-to-end data analysis workflow using Python and 
 - Interactive dashboards created in Power BI. 
 
 ---
-## 📂 Project Files
+## Project Files
 
-📊 Data Generation → [Super_store.ipynb](Super_store.ipynb)  
-📈 EDA Analysis → [EDA_Store.ipynb](EDA_Store.ipynb)  
-📁 Dataset → [Store_Management_System.xls](Store_Management_System.xls)  
-📊 Dashboard → [Store Dashboard.pbix](Store Dashboard.pbix)
+Data Generation → [Super_store.ipynb](Super_store.ipynb)  
+EDA Analysis → [EDA_Store.ipynb](EDA_Store.ipynb)  
+Dataset → [Store_Management_System.xls](Store_Management_System.xls)  
+Dashboard → [Store Dashboard.pbix](Store Dashboard.pbix)
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python (Pandas, NumPy, Seaborn)
 - Power BI
 - Excel
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Identified top-performing regions and states
 - Analyzed customer segment profitability
 - Discovered most preferred payment methods
@@ -32,20 +32,20 @@ This project demonstrates an end-to-end data analysis workflow using Python and 
 
 ---
 
-## 📊 Dashboard Previews
+## Dashboard Previews
 
 ### Store Performance Dashboard
-![Store](Store Performance Dashboard.jpg)
+[Store](Store Performance Dashboard.jpg)
 
 ### Inventory & Supplier Dashboard
-![Inventory](Inventory & Supplier Dashboard.jpg)
+[Inventory](Inventory & Supplier Dashboard.jpg)
 
 ### Customer & Delivery Dashboard
-![Customer](Customer & Delivery Insights Dashboard.jpg)
+[Customer](Customer & Delivery Insights Dashboard.jpg)
 
 ---
 
-## 📁 Files Included
+## Files Included
 - Python notebooks for data generation & analysis
 - Dataset (Excel)
 - Power BI dashboard file (.pbix)
@@ -53,7 +53,7 @@ This project demonstrates an end-to-end data analysis workflow using Python and 
 
 ---
 
-## 💡 Business Value
+## Business Value
 This dashboard helps businesses:
 - Track sales performance
 - Understand customer behavior
