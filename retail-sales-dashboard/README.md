@@ -3,9 +3,17 @@
 ## 🚀 Project Overview
 This project demonstrates an end-to-end data analysis workflow using Python and Power BI.
 
-- Data generated using Python (Faker)
-- Exploratory Data Analysis (EDA) performed using Pandas, NumPy, and Seaborn
-- Interactive dashboards created in Power BI
+- Data generated using Python (Faker) 
+- Exploratory Data Analysis (EDA) performed using Pandas, NumPy, and Seaborn.
+- Interactive dashboards created in Power BI. 
+
+---
+## 📂 Project Files
+
+📊 Data Generation → [Super_store.ipynb](Super_store.ipynb)  
+📈 EDA Analysis → [EDA_Store.ipynb](EDA_Store.ipynb)  
+📁 Dataset → [Store_Management_System.xls](Store_Management_System.xls)  
+📊 Dashboard → [Store Dashboard.pbix](Store Dashboard.pbix)
 
 ---
 
